@@ -1,0 +1,162 @@
+[{
+  "_id": "09a3637a-c9e2-4491-ba0a-de15a6add93b",
+  "ExternalProposalId": "",
+  "Status": "Analysing",
+  "Total": "1000",
+  "CustomerId": "4697260b-baf7-4ff6-978a-66061c1fbc4a",
+  "Customer": {
+    "Name": "João Artur",
+    "Document": "12076561943",
+    "Phone": "+55 (47) 99147-7476",
+    "Email": "joao.belli@twila.digital"
+  },
+  "Term": 4,
+  "EstablishmentId": "7a8de5c0-fd4a-46c3-9c2f-2698bc26cdfe",
+  "InclusionDate": {
+    "$date": "2024-08-28T17:20:39.083Z"
+  },
+  "AcceptedDate": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "RequestedAmount": "0",
+  "ApprovedAmount": "0",
+  "Description": "",
+  "CanResendLink": true
+},
+{
+  "_id": "3f26987c-6891-4cd2-aa33-601080598f8d",
+  "ExternalProposalId": "",
+  "Status": "SaleNotStarted",
+  "Total": "1000",
+  "CustomerId": "15708c53-78c5-4314-8273-905a5bfe6587",
+  "Customer": {
+    "Name": "Brendha",
+    "Document": "19681875702",
+    "Phone": "+55 (21) 95101-9463",
+    "Email": "brendha.2@twila.digital"
+  },
+  "Term": 3,
+  "EstablishmentId": "7a8de5c0-fd4a-46c3-9c2f-2698bc26cdfe",
+  "InclusionDate": {
+    "$date": "2024-09-03T20:18:53.349Z"
+  },
+  "AcceptedDate": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "RequestedAmount": "0",
+  "ApprovedAmount": "0",
+  "Description": "",
+  "CanResendLink": true
+},
+{
+  "_id": "e3555fb8-7ab4-4279-8a6b-a43b4d14f192",
+  "ExternalProposalId": "",
+  "Status": "Approved",
+  "Total": "1000",
+  "CustomerId": "15708c53-78c5-4314-8273-905a5bfe6587",
+  "Customer": {
+    "Name": "Brendha",
+    "Document": "19681875702",
+    "Phone": "+55 (21) 95101-9463",
+    "Email": "brendha.2@twila.digital"
+  },
+  "Term": 0,
+  "EstablishmentId": "7a8de5c0-fd4a-46c3-9c2f-2698bc26cdfe",
+  "InclusionDate": {
+    "$date": "2024-09-06T19:03:08.986Z"
+  },
+  "AcceptedDate": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "RequestedAmount": "0",
+  "ApprovedAmount": "0",
+  "Description": "",
+  "CanResendLink": true
+},
+{
+  "_id": "3556c85d-0a63-47d6-9bf4-403545000e2e",
+  "ExternalProposalId": "",
+  "Status": "Analysing",
+  "Total": "1000",
+  "CustomerId": "15708c53-78c5-4314-8273-905a5bfe6587",
+  "Customer": {
+    "Name": "Brendha",
+    "Document": "19681875702",
+    "Phone": "+55 (21) 95101-9463",
+    "Email": "brendha.2@twila.digital"
+  },
+  "Term": 0,
+  "EstablishmentId": "90487b77-c45b-439c-8ccc-88ce72702438",
+  "InclusionDate": {
+    "$date": "2024-09-10T19:49:50.301Z"
+  },
+  "AcceptedDate": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "RequestedAmount": "0",
+  "ApprovedAmount": "0",
+  "Description": "",
+  "CanResendLink": true
+},
+{
+  "_id": "b533ecb7-ec49-4ffc-9b4b-be73472202b5",
+  "ExternalProposalId": "",
+  "Status": "Analysing",
+  "Total": "42000",
+  "CustomerId": "b9edde92-cd9f-4ee9-aa2d-ba43cb59b17c",
+  "Customer": {
+    "Name": "Vito",
+    "Document": "10654524971",
+    "Phone": "+55 (47) 99936-0000",
+    "Email": "Sandrin"
+  },
+  "Term": 0,
+  "EstablishmentId": "90487b77-c45b-439c-8ccc-88ce72702438",
+  "InclusionDate": {
+    "$date": "2024-09-10T19:58:56.802Z"
+  },
+  "AcceptedDate": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "RequestedAmount": "0",
+  "ApprovedAmount": "0",
+  "Description": "",
+  "CanResendLink": true
+},
+{
+  "_id": "ce167526-7a23-4b66-acd1-ce36d3b47904",
+  "ExternalProposalId": "",
+  "Status": "SaleNotStarted",
+  "Total": "1000",
+  "CustomerId": "54cfb58c-ae4a-4db7-bdc7-965e7fcc7b8b",
+  "Customer": {
+    "Name": "",
+    "Document": "348.366.770-92",
+    "Phone": "+55 (21) 95101-9564",
+    "Email": ""
+  },
+  "Term": 0,
+  "EstablishmentId": "7a8de5c0-fd4a-46c3-9c2f-2698bc26cdfe",
+  "InclusionDate": {
+    "$date": "2024-09-16T16:58:51.274Z"
+  },
+  "AcceptedDate": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "RequestedAmount": "0",
+  "ApprovedAmount": "0",
+  "Description": "",
+  "CanResendLink": true
+}]
